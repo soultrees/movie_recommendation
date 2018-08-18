@@ -1,1 +1,1 @@
-Anacoda5.0：提供jupyter notebook，python3.6和相关包集成
+Anacoda5.0锛氭彁渚沯upyter notebook锛宲ython3.6鍜岀浉鍏冲寘闆嗘垚
